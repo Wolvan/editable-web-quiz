@@ -62,5 +62,13 @@ data = [
       "answerC": "Hinduism",
       "answerD": "Buddhism",
       "correct": "answerC"
+    },
+    {
+      "question": "Who invented the first electric light?,
+      "answerA": "Sir Isaac Newton",
+      "answerB": "Thomas Edison
+      "answerC": "Nikola Tesla",
+      "answerD": "Humphry Davy",
+      "correct": "answerD"
     }
   ];
