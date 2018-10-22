@@ -35,5 +35,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-Special thanks to [Nordiii](https://github.com/Nordiii) for providing me with useful random knowledge.
+Special thanks to [Nordiii](https://github.com/Nordiii) and [Wolvan](https://github.com/Wolvan) for providing me with useful random knowledge.
 
