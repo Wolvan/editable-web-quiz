@@ -66,7 +66,7 @@ data = [
     {
       "question": "Who invented the first electric light?,
       "answerA": "Sir Isaac Newton",
-      "answerB": "Thomas Edison
+      "answerB": "Thomas Edison",
       "answerC": "Nikola Tesla",
       "answerD": "Humphry Davy",
       "correct": "answerD"
